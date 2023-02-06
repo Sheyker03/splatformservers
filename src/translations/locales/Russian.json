@@ -1,0 +1,24 @@
+{
+  "App": {
+    "AppHeader": {
+      "SignIn": {
+        "LoginButton": "Войти",
+        "LoginModal": {
+          "Header": "Авторизация"
+        }
+      },
+      "SignUp": {
+        "SignUp": "Регистрация"
+      }
+    },
+    "Settings": {
+      "Settings": "Настройки",
+      "Language": "Язык",
+      "Theme": "Тема"
+    }
+  },
+  "Languages": {
+    "Russian": "Русский",
+    "English": "Английский"
+  }
+}
